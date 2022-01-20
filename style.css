@@ -45,3 +45,17 @@
 .heading-color{
     color: rgb(161, 216, 51);
 }
+.card1{
+    /* box-shadow: 5px 5px 9px lightgray; */
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.smartphone img{
+    width: 150px;
+}
+.laptop img{
+    width: 200px;
+}
