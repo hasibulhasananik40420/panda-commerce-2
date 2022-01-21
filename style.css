@@ -59,3 +59,31 @@
 .laptop img{
     width: 200px;
 }
+.item-3{
+    border-radius: 10px;
+
+    margin-top: 100px;
+    box-shadow: 5px 5-x 10px gray;
+}
+.item-3 img{
+    width: 100px;
+}
+.item-4{
+    border-radius: 10px;
+
+    margin-bottom: 50px;
+    box-shadow: 5px 5-x 10px gray;
+}
+.item-4 img{
+    width: 100px;
+}
+.item-5{
+  border-radius: 10px;
+    box-shadow: 5px 5-x 10px gray;
+}
+.item-5 img{
+    width: 100px;
+}
+.item6 img {
+  width: 100%;
+}
